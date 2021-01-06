@@ -1,0 +1,40 @@
+.Header__navigator div{
+    
+    
+    display: inline-block;
+    
+    
+}
+
+
+
+.img {
+    
+    width: 13px;
+    height: 140px;
+}
+
+.navLink{
+    text-decoration: none;
+}
+
+
+.Header__navigator li{
+    list-style-type: none;
+    display: inline-block;
+
+}
+
+.LeftNav{
+    text-align: left;
+    
+}
+
+
+.RightNav{
+    text-align: right;
+
+}
+.Header__navigator ul{
+    display: inline;
+}

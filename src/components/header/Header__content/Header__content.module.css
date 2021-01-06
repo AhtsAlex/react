@@ -1,4 +1,6 @@
 .content {
     background-image: url(../../../images/banner_background.jpg);
     height: 100vh;
+    background-size: 100%;
+    background-repeat: no-repeat;
 }
